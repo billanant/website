@@ -39,7 +39,7 @@ Not all tasks can be done in the GitHub UI, but these are discussed in the
 ### Participating in SIG Docs
 
 The Kubernetes documentation is maintained by a Special Interest Group (SIG)
-called SIG Docs. We communicate using a Slack channel, a mailing list, and
+called SIG Docs. We communicate using a Slack channel, a mailing list and
 weekly video meetings. New participants are welcome. For more information, see
 [Participating in SIG Docs](/docs/contribute/participating/).
 
